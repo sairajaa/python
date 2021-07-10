@@ -1,2 +1,1 @@
-# python port scanner
-python projects
+# python projects
